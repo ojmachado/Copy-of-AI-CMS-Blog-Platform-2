@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI CMS Blog Platform 2",
+  "description": "A modern blog platform with an integrated AI Content Management System. Features a public-facing blog and a secured admin dashboard where posts are generated using Google Gemini AI.",
+  "requestFramePermissions": []
+}
